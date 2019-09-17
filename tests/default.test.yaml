@@ -1,0 +1,13 @@
+test_metadata:
+  type: config
+  name: default
+  description: set the description for your test
+
+name: test
+description: my test product
+
+versions:
+  - name: 0.1.0
+    desc: initial version of test
+  - name: 0.1.1
+    desc: updated some part of test
